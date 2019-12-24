@@ -1,0 +1,20 @@
+{
+  "name": "gdbsyscorp/brmoney",
+  "description": "Money formatter for brazilians",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Zetti93",
+      "email": "geraldo.donizetti93@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "brMoney\\": "src"
+    }
+  },
+  "require": {
+    "php": ">=7.3"
+  }
+}
